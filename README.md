@@ -38,3 +38,8 @@ You can switch between login and signup using the links.
 It uses TextField widgets to let the user type data.
 Buttons are made using ElevatedButton and OutlinedButton.
 Navigation is done using Navigator.push() and Navigator.pop().
+
+<img width="467" height="818" alt="Image" src="https://github.com/user-attachments/assets/827e3534-dc9e-4aec-8777-2ce91a540ba1" />
+
+
+<img width="419" height="811" alt="sign up" src="https://github.com/user-attachments/assets/a4c3ea7b-56f4-451c-beb8-a96781d42907" />
